@@ -1,4 +1,4 @@
-# Cura Backup & Restore Script
+# Cura Backup & Restore Utility
 
 This repository contains `cura_backup_restore.sh`, a self-contained Bash script for managing Ultimaker Cura configuration data on Linux systems.
 
